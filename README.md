@@ -1,4 +1,4 @@
-## This is my solution a challenge on codewars.com using RUBY
+## This is my solution to a challenge on codewars.com using RUBY
 
 ## The challenges is titled:
 ## Sum of the first nth term of Series
